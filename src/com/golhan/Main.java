@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner scn = new Scanner(System.in);
-        System.out.println("Kaç tane fibonacci sayısı görüntülemek istiyorsunuz?");
+        System.out.println("Kaç tane fibonacci istiyorsunuz?");
 
         int sayi = scn.nextInt();
 
